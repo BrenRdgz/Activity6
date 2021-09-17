@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> ITK Testimonials</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="item item-1">
+                <div class="card-header">
+                    <img src="avatar1.webp" alt="profileX">
+                    <div class="profile-name">
+                        <p>Daniel Clifford</p>
+                        <p>Verified Graduate</p>
+                    </div>
+                </div>
+                    <h3>Bacon ipsum dolor amet elit et frankfurter</h3>
+                    <p>Bacon ipsum dolor amet elit et frankfurter, aliquip aliqua tempor eiusmod qui ribeye. Beef doner turducken velit tri-tip shank picanha short loin consequat hamburger. Nulla irure pork belly laborum, ullamco est tenderloin cillum. Porchetta pork loin elit laboris consectetur leberkas kielbasa incididunt prosciutto cupim lorem venison.</p>
+            </div>
+            <div class="item item-2">
+                <div class="card-header">
+                    <img src="avatar2.webp" alt="profileX">
+                    <div class="profile-name">
+                        <p>Jonathan Walters</p>
+                        <p>Verified Graduate</p>
+                    </div>
+                </div>
+                    <h3>Bacon ipsum dolor amet elit et frankfurter</h3>
+                    <p>Bacon ipsum dolor amet elit et frankfurter, aliquip aliqua tempor eiusmod qui ribeye. Beef doner turducken velit tri-tip shank picanha short loin consequat hamburger.</p>
 
-You can use the [editor on GitHub](https://github.com/BrenRdgz/Activity6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+            </div>
+            <div class="item item-3">
+                <div class="card-header">
+                    <img src="avatar3.webp" alt="profileX">
+                    <div class="profile-name">
+                        <p>Jeanette Harmon</p>
+                        <p>Verified Graduate</p>
+                    </div>
+                </div>
+                    <h3>Bacon ipsum dolor amet elit et frankfurter</h3>
+                    <p>Bacon ipsum dolor amet elit et frankfurter, aliquip aliqua tempor eiusmod qui ribeye. Beef doner turducken velit tri-tip shank picanha short loin consequat hamburger.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            </div>
+            <div class="item item-4">
+                <div class="card-header">
+                    <img src="avatar4.webp" alt="profileX">
+                    <div class="profile-name">
+                        <p>Patrick Abrams</p>
+                        <p>Verified Graduate</p>
+                    </div>
+                </div>
+                    <h3>Bacon ipsum dolor amet elit et frankfurter</h3>
+                    <p>Bacon ipsum dolor amet elit et frankfurter, aliquip aliqua tempor eiusmod qui ribeye. Beef doner turducken velit tri-tip shank picanha short loin consequat hamburger. Nulla irure pork belly laborum, ullamco est tenderloin cillum. Porchetta pork loin elit laboris consectetur leberkas kielbasa incididunt prosciutto cupim lorem venison.</p>
 
-### Markdown
+            </div>
+            <div class="item item-5">
+                <div class="card-header">
+                    <img src="avatar5.webp" alt="profileX">
+                    <div class="profile-name">
+                        <p>Kira Whittie</p>
+                        <p>Verified Graduate</p>
+                    </div>
+                </div>
+                    <h3>Bacon ipsum dolor amet elit et frankfurter</h3>
+                    <p>Bacon ipsum dolor amet elit et frankfurter, aliquip aliqua tempor eiusmod qui ribeye. Beef doner turducken velit tri-tip shank picanha short loin consequat hamburger. Nulla irure pork belly laborum, ullamco est tenderloin cillum. Porchetta pork loin elit laboris consectetur leberkas kielbasa incididunt prosciutto cupim lorem venison.
+                      <p>  Bacon ipsum dolor amet elit et frankfurter, aliquip aliqua tempor eiusmod qui ribeye. Beef doner turducken velit tri-tip shank picanha short loin consequat hamburger. Nulla irure pork belly laborum, ullamco est tenderloin cillum. Porchetta pork loin elit laboris consectetur leberkas kielbasa incididunt prosciutto cupim lorem venison.</p>
+                    </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrenRdgz/Activity6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+            </div>
+        </div>
+    </body>
+</html>
